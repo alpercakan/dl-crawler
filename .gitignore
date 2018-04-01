@@ -1,0 +1,8 @@
+.idea/*
+.gradle/*
+out/*
+crawl_roots
+download-list
+downloadables-dump
+logs
+visit-dump
